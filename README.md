@@ -12,8 +12,8 @@ Displays a textbox as a combination of boxes an inputs (eg: facebook tokenizer)
 
 So,I do some changes :
 
- >>1. Fix for jquery newer than v1.9 version
- >>2. Add callback function `onResultFormat` for plugin Autocomplete, so you can format your ajax response data 
- >>3. Add delay to keyup event for plugin Autocomplete， to fix no-english character (e.g. Chinese character) can not auto match.
+ >1. Fix for jquery newer than v1.9 version
+ >2. Add callback function `onResultFormat` for plugin Autocomplete, so you can format your ajax response data 
+ >3. Add delay to keyup event for plugin Autocomplete， to fix no-english character (e.g. Chinese character) can not auto match.
 
- 
+
