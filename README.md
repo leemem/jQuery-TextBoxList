@@ -1,7 +1,7 @@
 # jQuery-TextBoxList
 Displays a textbox as a combination of boxes an inputs (eg: facebook tokenizer)
 
- ##License
+ ## License
  ~~~
  Authors:
  	Guillermo Rauch
@@ -15,7 +15,7 @@ Displays a textbox as a combination of boxes an inputs (eg: facebook tokenizer)
 
  The base source code check out from [here](https://github.com/nicwolff/jQuery-TextBoxList), but its too old
 
-##Changes
+## Changes
 
  - Fix for jquery newer than v1.9 version
  - Add callback function `onResultFormat` for plugin Autocomplete, so you can format your ajax response data 
