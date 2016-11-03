@@ -1,19 +1,18 @@
 # jQuery-TextBoxList
 Displays a textbox as a combination of boxes an inputs (eg: facebook tokenizer)
 
- ## License
- ~~~
- Authors:
- 	Guillermo Rauch
- ~~~
- 	
- ~~~	
- Note:
- 	TextboxList is not priceless for commercial use. See [devthought](http://devthought.com/projects/jquery/textboxlist/). 
- 	Purchase to remove this message.
-~~~
+## License
 
- The base source code check out from [here](https://github.com/nicwolff/jQuery-TextBoxList), but its too old
+>Authors:
+>	Guillermo Rauch
+>
+>	
+>Note:
+>	TextboxList is not priceless for commercial use. See [devthought](http://devthought.com/projects/jquery/textboxlist/). 
+>	Purchase to remove this message.
+>
+>
+>   The base source code check out from [here](https://github.com/nicwolff/jQuery-TextBoxList), but its too old
 
 ## Changes
 
