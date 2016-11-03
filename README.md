@@ -3,12 +3,12 @@ Displays a textbox as a combination of boxes an inputs (eg: facebook tokenizer)
 
 ## License
 
->Authors:
+>Authors:  
 >	Guillermo Rauch
 >
 >	
->Note:
->	TextboxList is not priceless for commercial use. See [devthought](http://devthought.com/projects/jquery/textboxlist/). 
+>Note:  
+>	TextboxList is not priceless for commercial use. See [devthought](http://devthought.com/projects/jquery/textboxlist/).   
 >	Purchase to remove this message.
 >
 >
